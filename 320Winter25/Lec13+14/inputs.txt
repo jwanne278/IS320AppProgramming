@@ -1,0 +1,4 @@
+Adam,1,100
+Ben,0,80
+Cathy,1,60
+Denise,0,45

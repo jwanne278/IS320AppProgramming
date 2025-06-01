@@ -1,0 +1,6 @@
+Joe,10,Online,US,100.00,8.00
+Jack,20,Offline,CA,200.00,6.00
+Jill,10,Online,US,100.00,8.00
+Jane,20,Offline,CA,200.00,6.00
+Jim,10,Offline,US,100.00,8.00
+Cathy,100,Online,US,1000.00,80.00
