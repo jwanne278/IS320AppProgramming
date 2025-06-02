@@ -1,4 +1,4 @@
-"""oop1.py + oop2.py revision of oop1.py (class Taxpayerinit, str, display, save)
+"""oop1.py + oop2.py (class Taxpayerinit, str, display, save)
 
 New: processline, load
 add lines and headers to display 
