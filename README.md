@@ -14,34 +14,53 @@ File I/O & Data Persistence: Programs such as the dictionary apps demonstrate ho
 Applied Projects: Examples include simulated airline ticketing systems, debugging exercises, and small GUI apps, translating concepts into practical solutions.
 
 
-🛫 Airline Ticketing Program
-➤ I made a flight seat selector where the user chooses their ticket type, and the program calculates the final price with tax and outputs a receipt.
-File: airplaneproblem1.py, airplaneproblem2.py, airplaneproblem3.py, airplaneproblem4.py
+📚 Student Records Manager – A full-featured student tracking system using a list of dictionaries to input, validate, search (by name or ID), summarize, display, and save student records with structured logic and file persistence.
+Files: App1(Reference HW6).py
 
-🍔 Restaurant Menu System
-➤ I built an interactive food ordering system that lets the user pick menu items, calculates totals with discounts, and loops until the user exits.
-File: App1(Reference HW6).py
+📘 Student Records Manager (Dictionary-Based)
+This script builds a comprehensive student record system using a global dictionary, enabling line-based input, robust validation, average and grade calculations, file I/O, and both ID and name-based search.
+Files: DictApp1+DictApp2.py
 
-📚 Dictionary Quiz Game
-➤ I made a dictionary quiz that asks for vocabulary translations and provides real-time scoring.
-File: DictApp1+DictApp2.py, DictIntro_Sub.py
+🥕 Grocery Billing Calculator
+This script calculates the final bill for a custom produce order (artichokes, carrots, beets) using conditional logic for tiered shipping and discounting high-value orders, reinforcing control flow, arithmetic, and user input handling.
+Files: JCWanneHW2_1.py
 
-🎓 Student Grade Tracker with OOP
-➤ I created a student grade tracker where users input names and scores. The data is stored in a class and summarized.
-File: oop1 + oop2.py, oopexample.py
+🎓 Dual Grading Evaluator
+This script processes student scores using two grading schemes (pass/fail and letter grades), updates category counts, and computes average scores for each type, offering flexibility and modular grade analysis with real-time user interaction.
+Files: JWanneHW4_1.py
 
-🛠️ Variable Scope Debugger
-➤ I created a demo that compares global and local variable behavior, prompting the user to guess outcomes.
-File: debug_local_global.py
+💰 Tax Bracket Calculator
+This script calculates individual tax liabilities based on income, marital status, and exemptions while tracking high-bracket taxpayers and computing average taxes for summary reporting.
+Files: JwanneHW4_2.py
 
-🎫 Seating Chart Program
-➤ I coded a seat layout where the user picks a seat by entering row and column values. The program checks if it’s available.
-File: JCWanneHW2_1.py, JCWanneHW2_2.py
+📚 Book Order Tracker
+Calculates total order cost for book purchases, applying shipping fees or sales tax depending on online/offline status, while tracking order types and computing average revenue per order.
+Files: Lec9App1.py
 
-🧮 Grade Averaging with Validation
-➤ I made a calculator that takes a set of test scores from the user, validates input, and computes an average with letter grades.
-File: JwanneHW3_1.py, JwanneHW3_2.py
+💰 Tax Bracket Evaluator
+Calculates tax based on marital status and income thresholds, then tracks and averages total tax and married taxpayer tax data for insightful summaries.
+Files: MidtermPracP1.py
 
-📝 Form-Based Entry Application
-➤ I designed a form where users enter personal information and get feedback based on their inputs.
-File: JWanneHW4_1.py, JWanneHW4_2.py
+🧾 Input Validator
+Validates name, income, and marital status inputs with nested try-except and assert blocks, ensuring robust data entry before proceeding with any processing.
+Files: SS3.py
+
+🧾 Taxpayer Management System
+Stores, validates, and computes tax data for multiple users using a global dictionary keyed by taxpayer IDs. Includes tax calculation, data display, ID/status search, and statistical summaries.
+Files: jwanneHW5.py
+
+🗂️ Taxpayer Records Logger
+Computes and logs individual tax records based on income and marital status into a structured list of dictionaries with searchable and savable features.
+Files: jwanneHW6.py
+
+📦 Order Tracker & Tax Reporter
+Manages and validates international online/offline orders by country, computes tax with class-based encapsulation, and supports full reporting, searching, saving, and resetting workflows.
+Files: jwanneHW7.py
+
+💼 Taxpayer Class Manager
+Object-oriented tax processing system using a Taxpayer class to calculate tax based on income and state rules, track high-income earners, and support reporting, searching, and saving—all while demonstrating encapsulation and static/class methods.
+Files: oop1 + oop2.py
+
+🐾 Pet Object Blueprint
+Simple object-oriented model using a Pet class with instance attributes, methods like speak() and display(), and a class variable to track total pets—ideal for learning class structure and behavior in Python.
+Files: oopexample.py
