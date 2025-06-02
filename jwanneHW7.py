@@ -1,4 +1,4 @@
-"""Homework 3          Developed by JC      03.15.25
+"""jwanneHW7.py          Developed by JC      03.15.25
 
 This program manages order data such as quanitities, price, tax, and
 creates reports for online/offline orders for multiple countries.
