@@ -1,5 +1,9 @@
 """Lect13DictionaryApp1 + Lec 14 DictApp2 + Lec15App0
 
+This program is a full-featured student record system that allows users to input, search, display, 
+and persist student data (name, score, grade) using a global dictionary, with support for file I/O, 
+grading logic, summaries, and robust user validation.
+
 NEW:    submit:     inputs read as a single line
         search:     empty check, search by id, including checking if the id is present
         summary:    single avg function, running for loop, no new globals
