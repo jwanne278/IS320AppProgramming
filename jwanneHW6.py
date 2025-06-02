@@ -1,4 +1,4 @@
-"""Homework 5       Developed by JC         2.27.25
+"""jwanneHW6.py       Developed by JC         2.27.25
 
 This app is used to compute tax. 
 Users can determine their tax bracket and tax amount 
