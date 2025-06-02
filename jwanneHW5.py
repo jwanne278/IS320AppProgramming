@@ -1,4 +1,4 @@
-"""Homework 5       Developed by JC         2.27.25
+"""jwanneHW5.py       Developed by JC         2.27.25
 
 
 """
